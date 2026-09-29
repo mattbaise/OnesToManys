@@ -1,5 +1,7 @@
 # OnesToManys (ListDetails)
 
+![Three-tier master-detail architecture preview](docs/project-preview.svg)
+
 The point of this project is to explore what a 3-tier web application is like.
 You can implment it in either Java (and Java frameworks) or Python (and Python frameworks).
 
